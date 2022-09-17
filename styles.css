@@ -21,22 +21,12 @@ body {
     align-items: center;
 }
 
-.qrcode{
-
-    width: 20rem;  /* 300px */
-    border-radius: 4%;
-    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
-    padding: 1rem; /* 15px*/
-    
-   
-    
-}
 
 img{
     width: 100%;
     display: flex;
     margin: auto;
-    border-radius: 6%;
+    border-radius: 0.7rem;
 }
 
 h1{
@@ -62,4 +52,8 @@ main{
 
     background-color: white;
     border-radius: 1rem; /*17px*/
+    width: 20rem;  /* 300px */
+    border-radius: 1rem;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    padding: 1rem; /* 15px*/
 }
