@@ -57,3 +57,10 @@ main{
     box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
     padding: 1rem; /* 15px*/
 }
+
+@media all and(max-width:400px){
+
+  .container{
+    width: 400px;
+  }
+}
